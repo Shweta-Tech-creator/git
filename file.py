@@ -6,7 +6,7 @@ def stringlength(s):
 string=input("enter a string:")
 print("lenght of the string is:",stringlength(string))
 
-# changes done by shweta
+# changes done by shweta kadam
 
 
 
